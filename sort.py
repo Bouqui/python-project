@@ -27,5 +27,4 @@ def sortString(string):
     return sortedString
 
 
-# string = input("Enter an alphanumeric string")
 print(sortString("kOJkdsmdb%$8jj10"))
