@@ -1,4 +1,4 @@
-# import RegEx package
+# import RegEx packages
 import re
 
 
