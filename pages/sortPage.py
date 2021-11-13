@@ -29,4 +29,4 @@ class sortPage():
         return sortedString
 
 
-    print(sortString("kOJkdsmdb%$8jj10"))
+    #print(sortString("kOJkdsmdb%$8jj10"))
